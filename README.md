@@ -39,6 +39,8 @@ Develop a predictive model to estimate the number of taxi orders in the next hou
 Over the 6 different model testing, half of them achieved an RMSE value of 48 or better.
 The best model was **Exponential Smoothing**, followed by the **SARIMA models**.
 
+***Need to add the different models I used and give a breif explanation of them and why they are different.***
+
 ## Technologies Used
 - Python
 - Pandas
