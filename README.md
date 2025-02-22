@@ -46,3 +46,6 @@ The best model was **Exponential Smoothing**, followed by the **SARIMA models**.
 - Pandas
 - Scikit-learn
 - Matplotlib/Seaborn (for visualization)
+
+  Q:
+  do i add more photos?
