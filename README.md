@@ -49,3 +49,4 @@ The best model was **Exponential Smoothing**, followed by the **SARIMA models**.
 
   Q:
   do i add more photos?
+  look up good exapmles of readme files and review this and my other repositories
